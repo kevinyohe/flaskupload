@@ -1,0 +1,1 @@
+curl -X POST -F 'file=@/home/user/file.zip' http://localhost:5000
